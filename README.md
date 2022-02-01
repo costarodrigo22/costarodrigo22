@@ -1,5 +1,5 @@
 <h3>Olá, me chamo Rodrigo! 😎</h3>
-<p>- 👨🏾‍🎓 Sou estudante de Engenhaia Elétrica</p>
+<p>- 👨🏾‍🎓 Sou estudante de Engenharia Elétrica</p>
 <p>- 💻 Estudo desenvolvimento web por conta própria</p>
 <p>- 🌎 Estou estudando React no momento</p>
 <hr>
