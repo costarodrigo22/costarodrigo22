@@ -1,6 +1,6 @@
 <h3>Olá, me chamo Rodrigo! 😎</h3>
 <p>- 👨🏾‍🎓 Formado em Engenharia elétrica</p>
-<p>- 💻 Estudo desenvolvimento web e trabalho como desenvovledor web & mobile</p>
+<p>- 💻 Trabalho como desenvolvedor web & mobile</p>
 <p>- 🌎 Estou estudando React no momento</p>
 <hr>
 <p align="center">
